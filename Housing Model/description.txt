@@ -1,0 +1,6 @@
+Learning Objective: to enhance on statistical skills and understanding via computation linear regression and loss functions.
+Available Libraries: pandas, numpy and core Python 3.6+.
+Data Sources: NYC Department of City Planning (DCP) Housing Database and Neighorhood Tabulation Areas.
+Sample Datasets: Housing_Database_by_NTA.csv, NYC_population_by_NTA.csv.
+
+This program looks at the analysis of the NYC Housing Database and explores linear models for the dataset, as well as the data separated by borough
