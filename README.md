@@ -1,1 +1,2 @@
 # PythonDS
+Programs that focuses on computational methods and statistical techniques to analyze data and make inferences. Topics include data collection and cleaning, exploratory data analysis and visualization, and statistical inference and prediction. Working knowledge of data science through hands-on projects with real-world data using proficiency in statistics and Python programming, as well as experience with abstract data structures.
