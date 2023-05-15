@@ -1,0 +1,13 @@
+Yellow Taxi Data
+
+Learning Objective: practice on implementing model from start to finish and to strengthen understanding of model drift.
+Available Libraries: pandas, datetime, sklearn, and core Python 3.6+.
+Data Sources: Yellow Taxi Trip Data from OpenData NYC
+
+Read in datasets, merging and cleaning as needed.
+Impute missing values (we will use median for the numeric values).
+Transform features to polynomial (we will restrict to quadratic).
+Split our dataset into training and testing sets.
+Fit a model, or multiple models, to the training dataset.
+Validate the models using the testing dataset.
+This program will focus on building a linear regression model on the numerical features of our dataset to predict tip percentages.
