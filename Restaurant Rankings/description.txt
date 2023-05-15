@@ -1,0 +1,6 @@
+These results are also available in CSV files at OpenData NYC. This program focuses on predicting letter grades for restaurants, yet to be graded, as well computing summary statistics by neighborhood.
+Learning Objective: Successfully filter formatted data using standard Pandas operations for selecting and joining data.
+Available Libraries: Pandas and core Python 3.6+.
+Data Sources: Neigborhood Tabulation Areas, Restaurant Inspection Data @ OpenData NYC, NYC Department of Health Restaurant Grading.
+Sample Datasets: Neighborhood Tabulation Areas: nynta.csv.
+Restaurant Inspections: restaurants1Aug21.csv, restaurants30July.csv.
